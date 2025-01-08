@@ -53,10 +53,10 @@ Email: balkischachia12@gmail.com
 
 ## Homepage Explore, Learn, and Challenge Yourself!
 Key Features:
--Wide Range of Quizzes: Access to a large variety of quizzes from the Open Trivia Database API, covering numerous categories such as general knowledge, science, entertainment, and more.
--Category Filters: Easily filter quizzes by category to find the ones that interest you the most.
--Search Functionality: A powerful search bar to quickly locate specific quizzes by name or topic.
 
+🧠 Extensive Quiz Selection: Explore a diverse collection of quizzes from the Open Trivia Database API, spanning various categories like general knowledge, science, entertainment, and more.
+🔍 Category Filters: Effortlessly browse quizzes by category to find the ones that match your interests.
+⚡ Advanced Search: Use the robust search feature to quickly find quizzes based on name or topic.
 
 ![Homepage](https://github.com/balkisch1/QuizMaster---Test-Your-Skills-with-Quizzes/blob/master/Capture%20d'%C3%A9cran%202025-01-08%20160940.png?raw=true)
 
