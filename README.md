@@ -24,7 +24,7 @@ To get started with QuizMaster locally, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/username/quizmaster.git
+   git clone https://github.com/balkisch1/quizmaster.git
 2.Navigate into the project directory: 
 cd quizmaster
 
